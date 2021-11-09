@@ -1,6 +1,6 @@
 # Hangman
 
-*created by Simeon Atanasov (**satan**asov) and Vic Vansteeland (vvansteelant)*
+*created by Vic Vansteelant (vvansteelant) and Simeon Atanasov (**satan**asov)*
 
 ## Compilation
 Run `make` in the parent directory of `src`. A `bin` folder containing object files will be generated. 
